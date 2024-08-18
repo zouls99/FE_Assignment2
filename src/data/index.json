@@ -1,0 +1,71 @@
+{
+    "skills": [
+        {
+            "id": "1",
+            "icon": "fa-solid fa-laptop-code",
+            "title": "Front-End",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        },
+        {
+            "id": "2",
+            "icon": "fa-solid fa-database",
+            "title": "Back-End",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        },
+        {
+            "id": "3",
+            "icon": "fa-solid fa-paintbrush",
+            "title": "UI & UX Design",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        },
+        {
+            "id": "4",
+            "icon": "fa-solid fa-code",
+            "title": "Webflow Development",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        }
+    ],
+    "portfolio": [
+        {
+            "id": "1",
+            "src": "./img/placeholder-image.png",
+            "title": "Ahuse",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+            "link": "View In Github"
+        },
+        {
+            "id": "2",
+            "src": "./img/placeholder-image-1.png",
+            "title": "App Dashboard",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+            "link": "View In Github"
+        },
+        {
+            "id": "3",
+            "src": "./img/placeholder-image-2.png",
+            "title": "Easy Rentn",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+            "link": "View In Github"
+        }
+    ],
+    "award": [
+        {
+            "id": "1",
+            "count": "5",
+            "title" : "Hacktiv8 Intro to Programming",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        },
+        {
+            "id": "2",
+            "count": "5",
+            "title" : "Hackaton Challenge 2019",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        },
+        {
+            "id": "3",
+            "count": "5",
+            "title" : "Gamejam Malang 2018",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        }
+    ]
+}
